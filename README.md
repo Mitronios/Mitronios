@@ -5,19 +5,19 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
 <h3 align="center">Passionate about cats and Coffee, now part of the coding geeks</h3>
 
-- 🔭 I’m currently working on **MovieMate**
+- 🔭 I’m currently working on **NoCountry Developing an e-commerce**
 
-- 🌱 I’m currently learning about **Cybersecurity**
+- 🌱 I’m currently learning about **CS50**
 
 - 👯 I’m looking to collaborate on **Opensource project**
 
 - 🤝 I’m looking for help with **Data Base building experience**
 
-- 💬 Ask me about **React and I'll do my best with Bootstrap**
+- 💬 Ask me about **React and JS, I can help with Python as well**
 
 - 📫 How to reach me **mitronios@gmail.com**
 
-- ⚡ Fun fact **I'm a Flight Attendant ✈️ and I love the smell of freshly grounded coffee... ☕**
+- ⚡ Fun fact **I was a Flight Attendant for 10 years ✈️ and I love the smell of freshly grounded coffee... ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
