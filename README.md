@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **NoCountry Developing an e-commerce**
 
-- 🌱 I’m currently learning about **CS50**
+- 🌱 I’m currently learning about **TypeScript in React**
 
 - 👯 I’m looking to collaborate on **Opensource project**
 
-- 🤝 I’m looking for help with **Data Base building experience**
+- 🤝 I’m looking for help with **BackEnd new Technologies**
 
 - 💬 Ask me about **React and JS, I can help with Python as well**
 
