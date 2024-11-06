@@ -5,15 +5,15 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
 <h3 align="center">Passionate about cats and Coffee, now part of the coding geeks</h3>
 
-- 🔭 I’m currently working on **NoCountry Developing an e-commerce**
+- 🔭 I’m currently working on **KeepCoding Full Stack bootcamp**
 
-- 🌱 I’m currently learning about **TypeScript in React**
+- 🌱 I’m currently learning about **Applied AI at 4Geeks Academy**
 
-- 👯 I’m looking to collaborate on **Opensource project**
+- 👯 I’m looking to collaborate on **Open Source projects**
 
-- 🤝 I’m looking for help with **BackEnd new Technologies**
+- 🤝 I’m looking for help with **BackEnd and typescript**
 
-- 💬 Ask me about **React and JS, I can help with Python as well**
+- 💬 Ask me about **React and JS, I can help with Python literals and operators**
 
 - 📫 How to reach me **mitronios@gmail.com**
 
