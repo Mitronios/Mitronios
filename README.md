@@ -5,15 +5,15 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
 <h3 align="center">Passionate about cats and Coffee, now part of the coding geeks</h3>
 
-- 🔭 I’m currently working on **KeepCoding Full Stack bootcamp**
+- 🔭 I’m currently working at **KeepCoding Web Full Stack bootcamp**
 
-- 🌱 I’m currently learning about **Applied AI at 4Geeks Academy**
+- 🌱 I’m currently learning about **Object Oriented Programming with python**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 🤝 I’m looking for help with **BackEnd and typescript**
 
-- 💬 Ask me about **React and JS, I can help with Python literals and operators**
+- 💬 Ask me about **React and JS, I can help with Python**
 
 - 📫 How to reach me **mitronios@gmail.com**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/miguel-angel-gonzales-melgar-9388a3100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriana-cabrera-escobar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miguel-angel-gonzales-melgar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-angel-gonzales-melgar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
