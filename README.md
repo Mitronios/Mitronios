@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
 <h3 align="center">Passionate about cats and Coffee, now part of the coding geeks</h3>
 
-- 🔭 I’m currently working at **KeepCoding Web Full Stack bootcamp**
+- 🔭 I’m currently studying at **KeepCoding Web Full Stack bootcamp**
 
 - 🌱 I’m currently learning about **Object Oriented Programming with python**
 
