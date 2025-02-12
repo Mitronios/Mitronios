@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at **KeepCoding Web Full Stack bootcamp**
 
-- 🌱 I’m currently learning about **Object Oriented Programming with python**
+- 🌱 I’m currently learning about **Media Queries**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
