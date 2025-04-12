@@ -3,21 +3,23 @@
 
 -->
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
-<h3 align="center">Passionate about cats and Coffee, now part of the coding geeks</h3>
+<h3 align="center">Passionate about Cats, Coding and, Coffee.</h3>
 
 - 🔭 I’m currently studying at **KeepCoding Web Full Stack bootcamp**
 
-- 🌱 I’m currently learning about **DOM manipulation using JS**
+- 🖥️ Trainee at Assuresoft's Digital Academy
+
+- 🌱 I’m currently learning about **DOM manipulation using JS, Relational and no Relational DataBases**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 🤝 I’m looking for help with **BackEnd and typescript**
 
-- 💬 Ask me about **React and JS, I can help with Python**
+- 💬 Ask me about **React and JavaScript, I can help you with Python**
 
-- 📫 How to reach me **mitronios@gmail.com**
+- 📫 How to reach me? **mitronios@gmail.com**
 
-- ⚡ Fun fact **I was a Flight Attendant for 10 years ✈️ and I love the smell of freshly grounded coffee... ☕**
+- ⚡ Fun fact **I was a Flight Attendant for 10 years ✈️, now barista aficionado... and proud dad of 3 cats☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
