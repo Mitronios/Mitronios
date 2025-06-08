@@ -9,7 +9,7 @@
 
 - 🖥️ Trainee at Assuresoft's Digital Academy
 
-- 🌱 I’m currently learning about **DOM manipulation using JS, Relational and no Relational DataBases**
+- 🌱 I’m currently learning about **React, React Native**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
