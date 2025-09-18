@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
 <h3 align="center">Passionate about Cats, Coding and Coffee.</h3>
 
-- 🔭 I’m currently studying at **KeepCoding Web Full Stack bootcamp**
+- 🔭 I’m currently finishing my studies at **KeepCoding Web Full Stack bootcamp**
 
-- 🖥️ Trainee at Assuresoft's Digital Academy
+- 🖥️ Software Engineer at Assuresoft
 
-- 🌱 I’m currently learning about **React, React Native**
+- 🌱 I’m currently learning about **Ruby, Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
