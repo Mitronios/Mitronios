@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel</h1>
 <h3 align="center">Passionate about Cats, Coding and Coffee.</h3>
 
-- 🔭 I’m currently finishing my studies at **KeepCoding Web Full Stack bootcamp**
+- 🚀 i'm improving my skills as part of the OfferSpring programme at **DevAccelerator University**
 
 - 🖥️ Software Engineer at Assuresoft
 
